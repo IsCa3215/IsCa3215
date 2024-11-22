@@ -2,7 +2,13 @@ Hi , I'm Ismael Maqnine
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer+in+learning+process;Cross+platform+application+developer)](https://git.io/typing-svg)
 
-### LANGUAGES https://camo.githubusercontent.com/aed61247fb59e3b38d417a3f363e0734b5951cc3afb93948f35c4c0d2cc928d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966
+### LANGUAGES 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!--
 **IsCa3215/IsCa3215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
