@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer+in+learning+process;Cross+platform+application+development)](https://git.io/typing-svg)
 <!--
 **IsCa3215/IsCa3215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
