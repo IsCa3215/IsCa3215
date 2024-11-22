@@ -1,7 +1,9 @@
 Hi , I'm Ismael Maqnine
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer+in+learning+process;Cross+platform+application+developer)](https://git.io/typing-svg)
-  
+
+### LANGUAGES https://camo.githubusercontent.com/aed61247fb59e3b38d417a3f363e0734b5951cc3afb93948f35c4c0d2cc928d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966
+
 <!--
 **IsCa3215/IsCa3215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
