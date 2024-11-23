@@ -1,4 +1,4 @@
-# Hi , I'm Ismael Maqnine 👋
+# Hi , I'm Ismael 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer+in+learning+process;Cross+platform+application+developer)](https://git.io/typing-svg)
 
